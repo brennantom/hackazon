@@ -138,3 +138,5 @@ But here are the most important steps:
 7. Just take the hackazon.apk file from `\subprojects\android\hackazon\out\production\hackazon\com`. Profit!
 
 PS: To deploy the app to some kind of app store the app have to be signed. IDE helps with this task.
+
+##
